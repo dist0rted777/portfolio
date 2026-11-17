@@ -45,9 +45,9 @@ main{max-width:1180px;margin:0 auto;padding:0 clamp(18px,4vw,40px)}
 .pill:hover{border-color:var(--acc);transform:translateY(-1px)}
 .dot{width:8px;height:8px;border-radius:50%;background:var(--acc);box-shadow:0 0 0 0 rgba(94,234,212,.7);animation:pulse 2s infinite;flex:none}
 @keyframes pulse{70%{box-shadow:0 0 0 8px rgba(94,234,212,0)}100%{box-shadow:0 0 0 0 rgba(94,234,212,0)}}
-h1{margin:26px 0 14px;line-height:.92;letter-spacing:-.045em;font-weight:800}
+h1{margin:26px 0 6px;line-height:.92;letter-spacing:-.045em;font-weight:800}
 .h-sm{display:block;font-size:clamp(22px,2.6vw,30px);letter-spacing:-.01em;font-weight:600;color:var(--mute);margin-bottom:10px}
-.h-lg{display:block;font-size:clamp(52px,8.4vw,112px);background:linear-gradient(180deg,#fff 30%,#9aa3ae);-webkit-background-clip:text;background-clip:text;color:transparent}
+.h-lg{display:block;padding-bottom:.12em;font-size:clamp(52px,8.4vw,112px);background:linear-gradient(180deg,#fff 30%,#9aa3ae);-webkit-background-clip:text;background-clip:text;color:transparent}
 .h-lg .accent{-webkit-text-fill-color:var(--acc)}
 .role{color:var(--acc);font-size:clamp(14px,1.5vw,17px);margin-bottom:24px}
 .sep{color:var(--dim);margin:0 6px}

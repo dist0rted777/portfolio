@@ -1,7 +1,3 @@
-# Chidiebere Emmanuel Udegbe: portfolio
+# Moved
 
-Single-page static site (HTML, CSS, vanilla JS). No build step.
-
-Run locally: `python3 -m http.server 8000`, then open http://localhost:8000
-
-Hosted on GitHub Pages from the `main` branch root.
+This portfolio now lives at https://dist0rted777.github.io/ (source: https://github.com/dist0rted777/dist0rted777.github.io). This repo only redirects there.
